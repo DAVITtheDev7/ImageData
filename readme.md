@@ -26,7 +26,6 @@ This Python script extracts Exif data from JPEG (.JPG) and TIFF (.TIFF) image fi
 ## Note
 - Most social media sites strip Exif data from uploaded photos.
 
-```
 ### Script 2:
 # Exif Data Remover
 
